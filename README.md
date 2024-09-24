@@ -1,81 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+# 💫 About Me:
+🔭 I’m currently working on<br>- iot projects using arduino, esp32, raspberry pi<br>- servers using commandline tool<br>-virtualization using proxmox<br><br>🤝 I’m looking for help with<br>- machine learning and openCV<br><br>🌱 I’m currently learning<br>- react, nodeJS, express, api and databases
 
-<h1>S M Ahsan Habib</h1>
-<p>Welcome to my GitHub profile. I'm passionate about technology, coding, and creating innovative projects!</p>
 
-<h2>🌱 What I'm Currently Working On:</h2>
-<ul>
-    <li>🚀 IoT projects using ESP32 and Arduino</li>
-    <li>🌐 Web development with Node.js, Express, and React</li>
-    <li>🧠 Exploring machine learning and AI</li>
-</ul>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahsan-habib-880621101/) 
 
-<h2>📚 Skills and Technologies:</h2>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=flat&logo=espressif&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahsanNafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahsanNafi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanNafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3>🌐 Programming Languages:</h3>
-<p>
-    <a href="https://www.python.org" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
-    <a href="https://www.java.com" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=ahsanNafi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3>🛠️ Tools and Technologies:</h3>
-<p>
-    <a href="https://www.arduino.cc/" target="_blank" class="icon"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"></a>
-    <a href="https://www.docker.com/" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"></a>
-    <a href="https://www.postgresql.org" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"></a>
-    <a href="https://www.php.net" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a>
-    <a href="https://www.mongodb.com/" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"></a>
-    <a href="https://git-scm.com/" target="_blank" class="icon"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a>
-    <a href="https://www.espressif.com/en/products/socs/esp32"><img src="https://www.espressif.com/sites/all/themes/espressif/logo-black.svg" alt="esp32" width="70" height="40"></a>
-    a
-</p>
-
-<h3>💻 Web Development Frameworks:</h3>
-<p>
-    <a href="https://nodejs.org" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
-    <a href="https://expressjs.com" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"></a>
-    <a href="https://reactjs.org/" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
-</p>
-
-<h3>🐧 Operating Systems:</h3>
-<p>
-    <a href="https://www.linux.org/" target="_blank" class="icon"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"></a>
-</p>
-
-<h3>🖥️ Other Skills:</h3>
-<p>
-    <span>💻 Bash Scripting</span>
-    <span>📜 CCNA Certification</span>
-</p>
-
-<h2>📚 Studying for CCNA Certification</h2>
-<p>I’m currently studying for the <strong>Cisco Certified Network Associate (CCNA)</strong> certification to deepen my knowledge of networking and improve my practical skills in:</p>
-<ul>
-    <li>**Routing and Switching**: Understanding how routers and switches operate in complex networks, including configuring and troubleshooting them.</li>
-    <li>**Network Protocols**: Learning the fundamentals of networking protocols such as **TCP/IP**, **OSPF**, **EIGRP**, and **BGP**.</li>
-    <li>**Network Security**: Gaining skills in securing networks, including configuring firewalls, VPNs, and implementing best practices to safeguard against threats.</li>
-    <li>**IP Addressing and Subnetting**: Mastering IP addressing schemes, subnetting, and network design for scalable infrastructures.</li>
-    <li>**Wireless Networking**: Studying the setup and configuration of wireless networks and understanding their integration with wired networks.</li>
-</ul>
-
-<p>I'm applying my CCNA knowledge alongside my experience with Linux and server administration to build a strong foundation in network infrastructure.</p>
-
-<h3>💬 Let's Connect:</h3>
-<p>
-    <a href="https://www.linkedin.com/in/ahsan-habib-nafi/">LinkedIn</a><br>
-    <a href="mailto:ahsan.habib.nafi21@gmail.com">Email: ahsan.habib.nafi21@gmail.com</a>
-</p>
-
-<div class="footer">
-    <p>Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.</p>
-</div>
-
-</body>
-</html>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
